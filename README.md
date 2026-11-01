@@ -26,7 +26,7 @@ CESSER is built for **learning low-level systems**, **computer architecture**, a
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ 16-bit Virtual CPU  
 ✅ Custom Instruction Set Architecture (ISA)  
@@ -39,7 +39,7 @@ CESSER is built for **learning low-level systems**, **computer architecture**, a
 
 ---
 
-## 🧠 CPU Architecture
+## CPU Architecture
 
 ```
 ┌─────────────────────────────┐
@@ -58,7 +58,7 @@ CESSER is built for **learning low-level systems**, **computer architecture**, a
 
 ---
 
-## 🧱 Instruction Set (ISA)
+## Instruction Set (ISA)
 
 | Instruction | Description |
 |-------------|------------|
@@ -81,7 +81,7 @@ CESSER is built for **learning low-level systems**, **computer architecture**, a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 CESSER/
@@ -91,7 +91,7 @@ CESSER/
 
 ---
 
-## 🔄 Execution Flow
+## Execution Flow
 
 ```
 Assembly Code
@@ -107,16 +107,16 @@ CPU Registers & Memory Updated
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Requirements
+### Requirements
 
 - FreePascal Compiler (FPC)
 - Terminal / Command Prompt
 
 ---
 
-### ⚙️ Compile
+### Compile
 
 ```bash
 fpc cesser.pas
@@ -132,7 +132,7 @@ fpc cesser.pas
 
 ---
 
-## 🖥️ Emulator Commands
+## Emulator Commands
 
 | Command | Description |
 |-------|------------|
@@ -144,7 +144,7 @@ fpc cesser.pas
 
 ---
 
-## 🧪 Example Assembly Program
+## Example Assembly Program
 
 ```asm
 ; Factorial of 5
@@ -175,7 +175,7 @@ Expected output:
 
 ---
 
-## 🧵 Stack & Subroutines
+## Stack & Subroutines
 
 CESSER implements a **real stack model**:
 
@@ -187,7 +187,7 @@ This allows **modular programs**, **loops**, and **function-like behavior**.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 By building and using **CESSER**, you learn:
 
@@ -200,7 +200,7 @@ By building and using **CESSER**, you learn:
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - This project is **educational**
 - Instruction encoding is simplified
@@ -209,14 +209,9 @@ By building and using **CESSER**, you learn:
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free to use, modify, and learn from.
 
 ---
 
-<div align="center">
-
-**Developed by [norct](https://github.com/Unjou) 👾** 
-
-</div>
